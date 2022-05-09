@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CaserWebApp/Caser.Business/obj/Debug/net6.0/Caser.Business.GlobalUsings.g.cs

@@ -1,0 +1,5 @@
+D:\C#\CaserWebApp\Caser.Business\obj\Debug\net5.0\Caser.Business.csproj.AssemblyReference.cache
+D:\C#\CaserWebApp\Caser.Business\obj\Debug\net5.0\Caser.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CaserWebApp\Caser.Business\obj\Debug\net5.0\Caser.Business.AssemblyInfoInputs.cache
+D:\C#\CaserWebApp\Caser.Business\obj\Debug\net5.0\Caser.Business.AssemblyInfo.cs
+D:\C#\CaserWebApp\Caser.Business\obj\Debug\net5.0\Caser.Business.csproj.CoreCompileInputs.cache
